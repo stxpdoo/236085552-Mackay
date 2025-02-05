@@ -57,7 +57,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background-image: url('https://via.placeholder.com/1920x800');
+    background-image: url('skyline.jpg');
     background-size: cover;
     background-position: center;
     color: var(--text-color);
@@ -78,6 +78,10 @@ header {
     margin-bottom: 15px;
     color: var(--secondary-color);
     font-weight: bold;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 .cta-button {
