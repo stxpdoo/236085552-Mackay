@@ -106,6 +106,13 @@ header {
     text-align: center;
 }
 
+.section p {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+
 .service-list {
     display: flex;
     justify-content: center;
